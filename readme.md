@@ -11,4 +11,4 @@ Simply place this script somewhere on your linux server and run it with /path/vo
 
 Works on any Distro that uses amixer for volume control ( eg. Debian/Ubuntu ) and has a bashrc, tested on Ubuntu 18.04
 
-#####Written by RKara
+##### Written by RKara
