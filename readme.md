@@ -1,3 +1,5 @@
+# Linux global volume binds
+
 ## Usage
 
 This script created 4 alias in your bashrc:
